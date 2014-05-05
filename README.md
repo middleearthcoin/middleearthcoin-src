@@ -4,7 +4,7 @@ Middleearthcoin integration/staging tree
 http://middleearthcoin.com
 
 
-What is Middleeartthcoin?
+What is Middleearthcoin?
 ----------------
 
 Middleearthcoin is an experimental new digital currency that enables instant payments to
